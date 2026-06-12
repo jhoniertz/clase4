@@ -1,0 +1,29 @@
+body{
+    background-color:#f4f4f4;
+}
+
+.hero{
+    background:url("https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1200")
+    center/cover;
+    height:80vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.hero h1{
+    font-size:3rem;
+    font-weight:bold;
+}
+
+.card{
+    border-radius:15px;
+}
+
+table{
+    background:white;
+}
+
+.btn{
+    margin:5px;
+}
